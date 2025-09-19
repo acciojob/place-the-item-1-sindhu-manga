@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.item{
+	width:80px;
+	height:80px;
+    font-size:40px;
+	background-color:blue;
+	
+}
